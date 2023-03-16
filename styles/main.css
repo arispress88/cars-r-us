@@ -1,0 +1,33 @@
+@import "details.css";
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
+/*Typography
+--------------------------------------------------------------*/
+body,
+button,
+input,
+select,
+textarea {
+	color: #404040;
+	font-family: "Kanit", sans-serif;
+	font-size: 14px;
+	line-height: 1.5;
+}
+
+body{
+  overflow-x: hidden;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Kanit", sans-serif;
+  letter-spacing: 2px;
+}
+
+ul {
+    list-style-type: none;
+    padding-inline-start: 0.25rem;
+}
+
+button{
+  background-color: green;
+}

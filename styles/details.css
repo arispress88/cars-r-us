@@ -1,0 +1,22 @@
+.card{
+    border: 5px solid black;
+    /* display: flex;
+    justify-content: center;
+    flex-flow: wrap; */
+    /* column-gap: 20px; */
+}
+
+.card-body{
+    border: 1px solid red;
+    background-color: darkgray;
+}
+
+#orderButton {
+    font-family: 'Times New Roman', Times, serif,;
+    background-color: red;
+    font-size: 20px;
+}
+
+.container-fluid {
+    background-color:firebrick;
+}
